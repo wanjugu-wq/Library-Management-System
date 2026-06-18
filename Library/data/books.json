@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Book Thief",
+        "author": "Marcus Zusak",
+        "copies": 0,
+        "status": "Out of Stock"
+    },
+    {
+        "title": "The Eternal Ones",
+        "author": "Namina Forna",
+        "copies": 5,
+        "status": "Available"
+    },
+    {
+        "title": "hvfj",
+        "author": "bfhvdj",
+        "copies": 2,
+        "status": "Available"
+    }
+]
