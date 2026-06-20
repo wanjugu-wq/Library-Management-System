@@ -1,20 +1,9 @@
 [
     {
-        "title": "Book Thief",
-        "author": "Marcus Zusak",
-        "copies": 0,
-        "status": "Out of Stock"
-    },
-    {
-        "title": "The Eternal Ones",
-        "author": "Namina Forna",
-        "copies": 5,
-        "status": "Available"
-    },
-    {
-        "title": "hvfj",
-        "author": "bfhvdj",
-        "copies": 2,
+        "id": "1003c8cc-f4cd-4aef-9581-15ea46ca6a2b",
+        "title": "Book Theif",
+        "author": "Mark Zusak",
+        "copies": 20,
         "status": "Available"
     }
 ]

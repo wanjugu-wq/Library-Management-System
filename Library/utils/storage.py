@@ -10,6 +10,7 @@ def save_books():
 
     for book in Book.books:
         data.append({
+            "id": book.id,
             "title": book.title,
             "author": book.author,
             "copies": book.copies,
@@ -27,6 +28,7 @@ def load_books():
 
         for item in data:
             Book(
+                id=item["id"],
                 title=item["title"],
                 author=item["author"],
                 copies=item["copies"],

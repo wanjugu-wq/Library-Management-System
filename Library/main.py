@@ -1,10 +1,10 @@
 from utils.storage import save_books, load_books
-from Library.helpers.menu import system
-from Library.services.add_book import add_book
-from Library.services.view_books import view_books
-from Library.services.borrow_book import borrow_book
-from Library.services.remove_book import remove_book
-from Library.services.return_book import return_book
+from helpers.menu import system
+from services.add_book import add_book
+from services.view_books import view_books
+from services.borrow_book import borrow_book
+from services.remove_book import remove_book
+from services.return_book import return_book
 
 
 def program():

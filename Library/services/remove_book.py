@@ -1,4 +1,4 @@
-from ..models.book import Book
+from models.book import Book
 
 def remove_book():
    count = 0

@@ -1,4 +1,4 @@
-from ..models.book import Book
+from models.book import Book
 
 def add_book():
     book = input("\nEnter book title: ")

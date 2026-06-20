@@ -1,4 +1,4 @@
-from ..models.book import Book
+from models.book import Book
 
 def view_books():
     if len(Book.books) == 0:
